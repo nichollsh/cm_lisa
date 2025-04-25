@@ -183,4 +183,3 @@ def list_cmaps():
         A list of colormap names.
     """
     return list(_palettes.keys())
-
