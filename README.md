@@ -1,6 +1,7 @@
 # Lisa
 
 A simple Python package providing colormaps inspired by the colours of famous artists.
+
 Based on the [Color Lisa](https://colorlisa.com/) project.
 
 ### Installation
