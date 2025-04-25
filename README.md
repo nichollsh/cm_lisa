@@ -3,9 +3,6 @@
 A simple Python package providing colormaps inspired by the colours of famous artists.
 Based on the [Color Lisa](https://colorlisa.com/) project.
 
-### Demonstration
-![Image demonstrating the Lisa colormaps](docs/assets/lisa.svg)
-
 ### Installation
 Install the package from PyPI:
 ```bash
@@ -22,6 +19,9 @@ Simply import the package to make the colormaps available for use with Matplotli
 ```python
 import lisa
 ```
+### Demonstration
+![Image demonstrating the Lisa colormaps](docs/assets/lisa.svg)
+
 -----------------------------
 Available under the GNU General Public License v3.
 
